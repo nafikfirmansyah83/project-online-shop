@@ -73,12 +73,12 @@ body{
   </style>
 </head>
 <body>
-	<div class="wrapper">
-		<div class="statis">Selamat</div>
-		<ul class="bergerak">
-			<li><span>Datang</span></li>
-		</ul>
-	</div>
+	  <div class="wrapper">
+		  <div class="statis">Selamat</div>
+		  <ul class="bergerak">
+			  <li><span>Datang</span></li>
+		  </ul>
+	  </div>
 </body>
 <?php
 	echo '<meta http-equiv="refresh" content="4; url=./beranda.php"/>';

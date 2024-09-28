@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Hai User</title>
-  <style type="text/css">
+    <meta charset="UTF-8">
+    <title>Hai User</title>
+    <style type="text/css">
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 *{
   margin: 0;
@@ -73,12 +73,12 @@ body{
   </style>
 </head>
 <body>
-	<div class="wrapper">
-		<div class="statis">Sampai</div>
-		<ul class="bergerak">
-			<li><span>Jumpa</span></li>
-		</ul>
-	</div>
+	  <div class="wrapper">
+		  <div class="statis">Sampai</div>
+		  <ul class="bergerak">
+			  <li><span>Jumpa</span></li>
+		  </ul>
+	  </div>
 </body>
 <?php
 	echo '<meta http-equiv="refresh" content="4; url=./logout.php"/>';

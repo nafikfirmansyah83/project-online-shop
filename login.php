@@ -12,6 +12,7 @@ else
 	<link rel="stylesheet" href="css/bootstrap.min.css"/>
 	<link rel="stylesheet" href="css/hal-login.css"/>
 </head>
+<body>
 	<div class="global-container" >
 		<div class="card login-form">
 			<div class="card-body">
@@ -41,6 +42,7 @@ else
 			</div>
 		</div>
 	</div>
-<?php 
-} 
-?>
+	<?php 
+	} 
+	?>
+</body>
